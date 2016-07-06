@@ -2,13 +2,12 @@
 
 A simple fullstack starter using **webpack**, **express**, and **babel**.
 
-Good alternative for [angular-fullstack](https://github.com/angular-fullstack/generator-angular-fullstack) for new projects without installing Gulp. Although I love Gulp. I used this starter for fullstack projects using angular 1 or 2, and express.
+  * See [here](https://github.com/christianalfoni/webpack-express-boilerplate) for a kickstarter with angular 1 and mongoose
 
-This is not a full MEAN stack.
 
-### Reference
-
-* [webpack-express-boilerplate](https://github.com/christianalfoni/webpack-express-boilerplate)
+### Reference/Inspiration
+  * [webpack-express-boilerplate](https://github.com/christianalfoni/webpack-express-boilerplate)
+  * [generator-angular-fullstack](https://github.com/angular-fullstack/generator-angular-fullstack)
 
 ### Install nodemon globally
 ```

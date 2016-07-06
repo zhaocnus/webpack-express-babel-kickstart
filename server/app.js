@@ -13,16 +13,14 @@ let server = http.createServer(app);
 require('./config/express').default(app);
 
 // routes
-// require('./routes')(app);
+require('./routes').default(app);
 
 // Start server
 function startServer() {
-  app.connectedCarApp = server.listen(config.port, config.ip, () => {
+  app.myApp = server.listen(config.port, config.ip, () => {
     console.log('Express server listening on %d, in %s mode', config.port, app.get('env'));
   });
 }
-
-
 
 setImmediate(startServer);
 
