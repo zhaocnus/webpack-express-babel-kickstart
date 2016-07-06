@@ -2,7 +2,7 @@
 
 A simple fullstack starter using **webpack**, **express**, and **babel**.
 
-  * See [here](https://github.com/christianalfoni/webpack-express-boilerplate) for a kickstarter with angular 1 and mongoose
+  * See [here](https://github.com/christianalfoni/webpack-express-boilerplate) for a extended kickstarter with **angular 1** and **mongoose**.
 
 
 ### Reference/Inspiration
